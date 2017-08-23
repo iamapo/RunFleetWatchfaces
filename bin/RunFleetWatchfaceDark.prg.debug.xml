@@ -21,34 +21,41 @@
 <entry filename="/Users/a.redenius/RunFleetWatchfaces/source/battery.mc" lineNum="36" pc="268435848" symbol="draw"/>
 <entry filename="/Users/a.redenius/RunFleetWatchfaces/source/battery.mc" lineNum="39" pc="268435862" symbol="draw"/>
 <entry filename="/Users/a.redenius/RunFleetWatchfaces/source/battery.mc" lineNum="40" pc="268435878" symbol="draw"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="8" pc="268435956" symbol="initialize"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="9" pc="268435960" symbol="initialize"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="13" pc="268435979" symbol="onLayout"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="14" pc="268435983" symbol="onLayout"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="20" pc="268436021" symbol="onShow"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="24" pc="268436026" symbol="onUpdate"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="26" pc="268436030" symbol="onUpdate"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="27" pc="268436047" symbol="onUpdate"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="28" pc="268436151" symbol="onUpdate"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="29" pc="268436175" symbol="onUpdate"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="32" pc="268436189" symbol="onUpdate"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="38" pc="268436210" symbol="onHide"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="42" pc="268436215" symbol="onExitSleep"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="46" pc="268436220" symbol="onEnterSleep"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="5" pc="268436225" symbol="initialize"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="6" pc="268436229" symbol="initialize"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="10" pc="268436248" symbol="onStart"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="14" pc="268436253" symbol="onStop"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="18" pc="268436258" symbol="getInitialView"/>
-<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="19" pc="268436262" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268436300" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="21" pc="268436312" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="22" pc="268436460" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="23" pc="268436485" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="24" pc="268436537" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="25" pc="268436653" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="26" pc="268436705" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="29" pc="268436800" symbol="WatchFace"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="10" pc="268435956" symbol="initialize"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="11" pc="268435960" symbol="initialize"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="15" pc="268435979" symbol="onLayout"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="16" pc="268435983" symbol="onLayout"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="22" pc="268436021" symbol="onShow"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="26" pc="268436026" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="28" pc="268436030" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="29" pc="268436047" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="30" pc="268436064" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="31" pc="268436168" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="32" pc="268436192" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="33" pc="268436206" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="34" pc="268436237" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="35" pc="268436311" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="40" pc="268436345" symbol="onUpdate"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="46" pc="268436366" symbol="onHide"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="50" pc="268436371" symbol="onExitSleep"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkView.mc" lineNum="54" pc="268436376" symbol="onEnterSleep"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="5" pc="268436381" symbol="initialize"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="6" pc="268436385" symbol="initialize"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="10" pc="268436404" symbol="onStart"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="14" pc="268436409" symbol="onStop"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="18" pc="268436414" symbol="getInitialView"/>
+<entry filename="/Users/a.redenius/RunFleetWatchfaces/source/RunFleetWatchfaceDarkApp.mc" lineNum="19" pc="268436418" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268436456" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268436468" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268436616" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436641" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436693" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436841" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268436866" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268436918" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268437034" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268437086" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268437181" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="11" object="true" symbol="RunFleetWatchfaceDarkApp"/>
@@ -56,6 +63,7 @@
 <entry id="8389349" symbol="justification"/>
 <entry field="true" id="14" symbol="id_amd_logo"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
@@ -96,17 +104,22 @@
 <entry endPc="268435955" name="color" stackId="3" startPc="268435549"/>
 <entry endPc="268435956" name="dc" stackId="1" startPc="268435545"/>
 <entry endPc="268436021" name="dc" stackId="1" startPc="268435979"/>
-<entry endPc="268436209" name="view" stackId="4" startPc="268436030"/>
-<entry endPc="268436209" name="timeString" stackId="3" startPc="268436030"/>
-<entry endPc="268436209" name="clockTime" stackId="2" startPc="268436030"/>
-<entry endPc="268436210" name="dc" stackId="1" startPc="268436026"/>
-<entry endPc="268436253" name="state" stackId="1" startPc="268436248"/>
-<entry endPc="268436258" name="state" stackId="1" startPc="268436253"/>
-<entry endPc="268436837" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436312"/>
-<entry endPc="268436837" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436312"/>
-<entry endPc="268436837" name="rez_cmp_local_bitmap_id_amd_logo" stackId="4" startPc="268436312"/>
-<entry endPc="268436837" name="rez_cmp_local_custom_drawable_battery" stackId="5" startPc="268436312"/>
-<entry endPc="268436838" name="dc" stackId="1" startPc="268436300"/>
+<entry endPc="268436365" name="view" stackId="5" startPc="268436030"/>
+<entry endPc="268436365" name="date" stackId="6" startPc="268436030"/>
+<entry endPc="268436365" name="now" stackId="2" startPc="268436030"/>
+<entry endPc="268436365" name="timeString" stackId="4" startPc="268436030"/>
+<entry endPc="268436365" name="dateString" stackId="7" startPc="268436030"/>
+<entry endPc="268436365" name="clockTime" stackId="3" startPc="268436030"/>
+<entry endPc="268436366" name="dc" stackId="1" startPc="268436026"/>
+<entry endPc="268436409" name="state" stackId="1" startPc="268436404"/>
+<entry endPc="268436414" name="state" stackId="1" startPc="268436409"/>
+<entry endPc="268437228" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436468"/>
+<entry endPc="268437228" name="rez_cmp_local_bitmap_DateLabel_fontHeight" stackId="5" startPc="268436468"/>
+<entry endPc="268437228" name="rez_cmp_local_bitmap_DateLabel" stackId="4" startPc="268436468"/>
+<entry endPc="268437228" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436468"/>
+<entry endPc="268437228" name="rez_cmp_local_bitmap_id_amd_logo" stackId="6" startPc="268436468"/>
+<entry endPc="268437228" name="rez_cmp_local_custom_drawable_battery" stackId="7" startPc="268436468"/>
+<entry endPc="268437229" name="dc" stackId="1" startPc="268436456"/>
 </localVars>
 <annotations/>
 <functions>
