@@ -24,7 +24,7 @@ class RunFleetWatchfaceDarkView extends Ui.WatchFace {
     function onUpdate(dc) {
         // Get and show the current time
         var clockTime = Sys.getClockTime();
-        var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
+        var timeString = Lang.format("$1$:$2$:$3$", [clockTime.hour, clockTime.min.format("%02d"), clockTime.sec.format("%02d")]);
         var view = View.findDrawableById("TimeLabel");
         view.setText(timeString);
 

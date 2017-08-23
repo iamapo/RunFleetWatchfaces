@@ -1,3 +1,13 @@
 <layout id="WatchFace">
-    <label id="TimeLabel" x="center" y="center" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+    <label id="TimeLabel" x="center" y="135" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    
+    <bitmap x="center" y="40" id="id_amd_logo"  filename="../drawables/rfdarksmall.png" ></bitmap>
+    
+        <drawable id="battery" class="Battery">
+        <param name="x">97</param>
+        <param name="y">10</param>
+        <param name="height">12</param>
+        <param name="width">24</param>
+    </drawable>
+    
 </layout>
