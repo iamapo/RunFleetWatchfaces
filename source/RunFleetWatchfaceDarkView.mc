@@ -27,11 +27,11 @@ class RunFleetWatchfaceDarkView extends Ui.WatchFace {
         // Get and show the current time
         var now = Time.now();
         var clockTime = Sys.getClockTime();
-        var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
+        var timeString = Lang.format("$1$:$2$", [clockTime.hour.format("%02d"), clockTime.min.format("%02d")]);
         var view = View.findDrawableById("TimeLabel");
         view.setText(timeString);
         var date = Calendar.info(now, Time.FORMAT_SHORT);
-        var dateString = Lang.format("$1$ : $2$", [date.day, date.month.format("%02d")]);
+        var dateString = Lang.format("$1$ : $2$", [date.day.format("%02d"), date.month.format("%02d")]);
         View.findDrawableById("DateLabel")
             .setText(dateString);
         
