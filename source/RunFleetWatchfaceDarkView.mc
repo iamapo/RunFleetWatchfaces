@@ -30,14 +30,26 @@ class RunFleetWatchfaceDarkView extends Ui.WatchFace {
         var timeString = Lang.format("$1$:$2$", [clockTime.hour.format("%02d"), clockTime.min.format("%02d")]);
         var view = View.findDrawableById("TimeLabel");
         view.setText(timeString);
-        var date = Calendar.info(now, Time.FORMAT_SHORT);
-        var dateString = Lang.format("$1$ : $2$", [date.day.format("%02d"), date.month.format("%02d")]);
+        var date = Calendar.info(now, Time.FORMAT_LONG);
+        var dateString = Lang.format("$1$. $2$", [date.day, date.month]);
         View.findDrawableById("DateLabel")
             .setText(dateString);
         
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
+        
+        // Show Bluetooth Icon when connected
+        var BTstatusBitmap;
+        var devSettings = Sys.getDeviceSettings();
+        if (devSettings.phoneConnected) { 
+	 		BTstatusBitmap = Ui.loadResource(Rez.Drawables.ConnectIcon);
+        } else {
+	 		BTstatusBitmap = Ui.loadResource(Rez.Drawables.DisconnectIcon);
+	 	}
+	 	
+	 	var btstatusView = View.findDrawableById("id_btstatus");
+        dc.drawBitmap(btstatusView.locX, btstatusView.locY, BTstatusBitmap);
     }
 
     // Called when this View is removed from the screen. Save the

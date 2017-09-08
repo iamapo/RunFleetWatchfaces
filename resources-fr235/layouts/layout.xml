@@ -1,6 +1,6 @@
 <layout id="WatchFace">
-    <label id="TimeLabel" x="center" y="150" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
-    <label id="DateLabel" x="center" y="180" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="TimeLabel" x="center" y="130" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="DateLabel" x="center" y="155" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
     <bitmap x="50"    y="10"  id="id_btstatus"  filename="../drawables/connect.png"></bitmap>
     
     

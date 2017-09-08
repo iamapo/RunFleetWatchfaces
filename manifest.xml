@@ -2,11 +2,14 @@
     <iq:application entry="RunFleetWatchfaceDarkApp" id="69d71eac30b141e3967ac8d74c085c06" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="1.4.0" name="@Strings.AppName" type="watchface">
         <iq:products>
             <iq:product id="fr230"/>
+            <iq:product id="fenix3"/>
             <iq:product id="fr235"/>
             <iq:product id="fr735xt"/>
+            <iq:product id="fenix3_hr"/>
         </iq:products>
         <iq:permissions/>
         <iq:languages>
+            <iq:language>deu</iq:language>
             <iq:language>eng</iq:language>
         </iq:languages>
     </iq:application>
